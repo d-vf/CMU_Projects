@@ -1,0 +1,2 @@
+- Run `collect_from_full_node.py` to collect transaction pool data from the full node.
+- Follow `analyze_data.ipynb` to analyze the data.

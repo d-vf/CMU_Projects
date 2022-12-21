@@ -1,0 +1,2 @@
+- First run `get_slashed_validators.py`. 
+- Follow instructions in `.ipynb` files to collect and analyze data.

@@ -1,0 +1,1304 @@
+[
+    {
+        "slashed_validator": 3280,
+        "reason": "Attestation Violation",
+        "slot": 4759015,
+        "epoch": 148719
+    },
+    {
+        "slashed_validator": 3281,
+        "reason": "Attestation Violation",
+        "slot": 4758974,
+        "epoch": 148717
+    },
+    {
+        "slashed_validator": 3268,
+        "reason": "Attestation Violation",
+        "slot": 4758973,
+        "epoch": 148717
+    },
+    {
+        "slashed_validator": 3308,
+        "reason": "Attestation Violation",
+        "slot": 4758973,
+        "epoch": 148717
+    },
+    {
+        "slashed_validator": 3264,
+        "reason": "Attestation Violation",
+        "slot": 4758956,
+        "epoch": 148717
+    },
+    {
+        "slashed_validator": 3267,
+        "reason": "Attestation Violation",
+        "slot": 4758923,
+        "epoch": 148716
+    },
+    {
+        "slashed_validator": 3306,
+        "reason": "Attestation Violation",
+        "slot": 4758872,
+        "epoch": 148714
+    },
+    {
+        "slashed_validator": 3282,
+        "reason": "Attestation Violation",
+        "slot": 4758798,
+        "epoch": 148712
+    },
+    {
+        "slashed_validator": 3283,
+        "reason": "Attestation Violation",
+        "slot": 4758791,
+        "epoch": 148712
+    },
+    {
+        "slashed_validator": 3265,
+        "reason": "Attestation Violation",
+        "slot": 4758786,
+        "epoch": 148712
+    },
+    {
+        "slashed_validator": 3305,
+        "reason": "Attestation Violation",
+        "slot": 4758782,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3203,
+        "reason": "Attestation Violation",
+        "slot": 4758782,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3216,
+        "reason": "Attestation Violation",
+        "slot": 4758778,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3204,
+        "reason": "Attestation Violation",
+        "slot": 4758777,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3309,
+        "reason": "Attestation Violation",
+        "slot": 4758774,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3215,
+        "reason": "Attestation Violation",
+        "slot": 4758774,
+        "epoch": 148711
+    },
+    {
+        "slashed_validator": 3266,
+        "reason": "Attestation Violation",
+        "slot": 4758744,
+        "epoch": 148710
+    },
+    {
+        "slashed_validator": 3284,
+        "reason": "Attestation Violation",
+        "slot": 4758729,
+        "epoch": 148710
+    },
+    {
+        "slashed_validator": 3214,
+        "reason": "Attestation Violation",
+        "slot": 4758723,
+        "epoch": 148710
+    },
+    {
+        "slashed_validator": 3307,
+        "reason": "Attestation Violation",
+        "slot": 4758723,
+        "epoch": 148710
+    },
+    {
+        "slashed_validator": 28064,
+        "reason": "Attestation Violation",
+        "slot": 4749861,
+        "epoch": 148433
+    },
+    {
+        "slashed_validator": 18194,
+        "reason": "Attestation Violation",
+        "slot": 4747566,
+        "epoch": 148361
+    },
+    {
+        "slashed_validator": 28065,
+        "reason": "Attestation Violation",
+        "slot": 4745689,
+        "epoch": 148302
+    },
+    {
+        "slashed_validator": 422397,
+        "reason": "Attestation Violation",
+        "slot": 4719340,
+        "epoch": 147479
+    },
+    {
+        "slashed_validator": 404680,
+        "reason": "Attestation Violation",
+        "slot": 4700025,
+        "epoch": 146875
+    },
+    {
+        "slashed_validator": 104106,
+        "reason": "Attestation Violation",
+        "slot": 4680960,
+        "epoch": 146280
+    },
+    {
+        "slashed_validator": 45730,
+        "reason": "Attestation Violation",
+        "slot": 4667262,
+        "epoch": 145851
+    },
+    {
+        "slashed_validator": 31987,
+        "reason": "Attestation Violation",
+        "slot": 4640867,
+        "epoch": 145027
+    },
+    {
+        "slashed_validator": 70,
+        "reason": "Attestation Violation",
+        "slot": 4625722,
+        "epoch": 144553
+    },
+    {
+        "slashed_validator": 246497,
+        "reason": "Attestation Violation",
+        "slot": 4613762,
+        "epoch": 144180
+    },
+    {
+        "slashed_validator": 46320,
+        "reason": "Attestation Violation",
+        "slot": 4577706,
+        "epoch": 143053
+    },
+    {
+        "slashed_validator": 9362,
+        "reason": "Attestation Violation",
+        "slot": 4552795,
+        "epoch": 142274
+    },
+    {
+        "slashed_validator": 19128,
+        "reason": "Attestation Violation",
+        "slot": 4480931,
+        "epoch": 140029
+    },
+    {
+        "slashed_validator": 19133,
+        "reason": "Attestation Violation",
+        "slot": 4480485,
+        "epoch": 140015
+    },
+    {
+        "slashed_validator": 32473,
+        "reason": "Attestation Violation",
+        "slot": 4433886,
+        "epoch": 138558
+    },
+    {
+        "slashed_validator": 13209,
+        "reason": "Attestation Violation",
+        "slot": 4289503,
+        "epoch": 134046
+    },
+    {
+        "slashed_validator": 406527,
+        "reason": "Attestation Violation",
+        "slot": 4254605,
+        "epoch": 132956
+    },
+    {
+        "slashed_validator": 391311,
+        "reason": "Attestation Violation",
+        "slot": 4112690,
+        "epoch": 128521
+    },
+    {
+        "slashed_validator": 16985,
+        "reason": "Attestation Violation",
+        "slot": 3832488,
+        "epoch": 119765
+    },
+    {
+        "slashed_validator": 372932,
+        "reason": "Attestation Violation",
+        "slot": 3780081,
+        "epoch": 118127
+    },
+    {
+        "slashed_validator": 368581,
+        "reason": "Attestation Violation",
+        "slot": 3771767,
+        "epoch": 117867
+    },
+    {
+        "slashed_validator": 70055,
+        "reason": "Attestation Violation",
+        "slot": 3751481,
+        "epoch": 117233
+    },
+    {
+        "slashed_validator": 12661,
+        "reason": "Attestation Violation",
+        "slot": 3739581,
+        "epoch": 116861
+    },
+    {
+        "slashed_validator": 166799,
+        "reason": "Attestation Violation",
+        "slot": 3549952,
+        "epoch": 110936
+    },
+    {
+        "slashed_validator": 66065,
+        "reason": "Attestation Violation",
+        "slot": 3360802,
+        "epoch": 105025
+    },
+    {
+        "slashed_validator": 19299,
+        "reason": "Proposer Violation",
+        "slot": 3339591,
+        "epoch": 104362
+    },
+    {
+        "slashed_validator": 270651,
+        "reason": "Attestation Violation",
+        "slot": 3065150,
+        "epoch": 95785
+    },
+    {
+        "slashed_validator": 62830,
+        "reason": "Attestation Violation",
+        "slot": 2872461,
+        "epoch": 89764
+    },
+    {
+        "slashed_validator": 39710,
+        "reason": "Attestation Violation",
+        "slot": 2834210,
+        "epoch": 88569
+    },
+    {
+        "slashed_validator": 88657,
+        "reason": "Attestation Violation",
+        "slot": 2814433,
+        "epoch": 87951
+    },
+    {
+        "slashed_validator": 88632,
+        "reason": "Attestation Violation",
+        "slot": 2814146,
+        "epoch": 87942
+    },
+    {
+        "slashed_validator": 88655,
+        "reason": "Attestation Violation",
+        "slot": 2813961,
+        "epoch": 87936
+    },
+    {
+        "slashed_validator": 88656,
+        "reason": "Attestation Violation",
+        "slot": 2812801,
+        "epoch": 87900
+    },
+    {
+        "slashed_validator": 203983,
+        "reason": "Attestation Violation",
+        "slot": 2755555,
+        "epoch": 86111
+    },
+    {
+        "slashed_validator": 12954,
+        "reason": "Attestation Violation",
+        "slot": 2724285,
+        "epoch": 85133
+    },
+    {
+        "slashed_validator": 12697,
+        "reason": "Attestation Violation",
+        "slot": 2638206,
+        "epoch": 82443
+    },
+    {
+        "slashed_validator": 1859,
+        "reason": "Attestation Violation",
+        "slot": 2624392,
+        "epoch": 82012
+    },
+    {
+        "slashed_validator": 261,
+        "reason": "Attestation Violation",
+        "slot": 2535251,
+        "epoch": 79226
+    },
+    {
+        "slashed_validator": 42708,
+        "reason": "Attestation Violation",
+        "slot": 2332099,
+        "epoch": 72878
+    },
+    {
+        "slashed_validator": 26987,
+        "reason": "Attestation Violation",
+        "slot": 2176803,
+        "epoch": 68025
+    },
+    {
+        "slashed_validator": 26989,
+        "reason": "Attestation Violation",
+        "slot": 2176738,
+        "epoch": 68023
+    },
+    {
+        "slashed_validator": 26988,
+        "reason": "Attestation Violation",
+        "slot": 2176004,
+        "epoch": 68000
+    },
+    {
+        "slashed_validator": 26945,
+        "reason": "Attestation Violation",
+        "slot": 2043489,
+        "epoch": 63859
+    },
+    {
+        "slashed_validator": 45276,
+        "reason": "Attestation Violation",
+        "slot": 2029833,
+        "epoch": 63432
+    },
+    {
+        "slashed_validator": 27442,
+        "reason": "Attestation Violation",
+        "slot": 2008348,
+        "epoch": 62760
+    },
+    {
+        "slashed_validator": 9230,
+        "reason": "Attestation Violation",
+        "slot": 1978692,
+        "epoch": 61834
+    },
+    {
+        "slashed_validator": 161752,
+        "reason": "Attestation Violation",
+        "slot": 1956780,
+        "epoch": 61149
+    },
+    {
+        "slashed_validator": 161751,
+        "reason": "Attestation Violation",
+        "slot": 1956770,
+        "epoch": 61149
+    },
+    {
+        "slashed_validator": 78678,
+        "reason": "Attestation Violation",
+        "slot": 1899681,
+        "epoch": 59365
+    },
+    {
+        "slashed_validator": 21613,
+        "reason": "Proposer Violation",
+        "slot": 1856963,
+        "epoch": 58030
+    },
+    {
+        "slashed_validator": 169440,
+        "reason": "Proposer Violation",
+        "slot": 1510279,
+        "epoch": 47196
+    },
+    {
+        "slashed_validator": 12981,
+        "reason": "Attestation Violation",
+        "slot": 1381594,
+        "epoch": 43174
+    },
+    {
+        "slashed_validator": 25893,
+        "reason": "Attestation Violation",
+        "slot": 1379971,
+        "epoch": 43124
+    },
+    {
+        "slashed_validator": 25894,
+        "reason": "Attestation Violation",
+        "slot": 1376006,
+        "epoch": 43000
+    },
+    {
+        "slashed_validator": 25895,
+        "reason": "Attestation Violation",
+        "slot": 1376001,
+        "epoch": 43000
+    },
+    {
+        "slashed_validator": 26447,
+        "reason": "Attestation Violation",
+        "slot": 1348349,
+        "epoch": 42135
+    },
+    {
+        "slashed_validator": 119315,
+        "reason": "Attestation Violation",
+        "slot": 1322971,
+        "epoch": 41342
+    },
+    {
+        "slashed_validator": 67319,
+        "reason": "Attestation Violation",
+        "slot": 1322722,
+        "epoch": 41335
+    },
+    {
+        "slashed_validator": 100190,
+        "reason": "Attestation Violation",
+        "slot": 1232592,
+        "epoch": 38518
+    },
+    {
+        "slashed_validator": 3206,
+        "reason": "Attestation Violation",
+        "slot": 1224988,
+        "epoch": 38280
+    },
+    {
+        "slashed_validator": 8776,
+        "reason": "Attestation Violation",
+        "slot": 1130722,
+        "epoch": 35335
+    },
+    {
+        "slashed_validator": 66420,
+        "reason": "Attestation Violation",
+        "slot": 1003554,
+        "epoch": 31361
+    },
+    {
+        "slashed_validator": 73292,
+        "reason": "Attestation Violation",
+        "slot": 906882,
+        "epoch": 28340
+    },
+    {
+        "slashed_validator": 63338,
+        "reason": "Proposer Violation",
+        "slot": 476969,
+        "epoch": 14905
+    },
+    {
+        "slashed_validator": 63338,
+        "reason": "Proposer Violation",
+        "slot": 476904,
+        "epoch": 14903
+    },
+    {
+        "slashed_validator": 17232,
+        "reason": "Attestation Violation",
+        "slot": 475807,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 19017,
+        "reason": "Attestation Violation",
+        "slot": 475805,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 24528,
+        "reason": "Attestation Violation",
+        "slot": 475803,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17189,
+        "reason": "Attestation Violation",
+        "slot": 475802,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17291,
+        "reason": "Attestation Violation",
+        "slot": 475802,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 23179,
+        "reason": "Attestation Violation",
+        "slot": 475798,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17140,
+        "reason": "Attestation Violation",
+        "slot": 475797,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 24703,
+        "reason": "Attestation Violation",
+        "slot": 475797,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17304,
+        "reason": "Attestation Violation",
+        "slot": 475796,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17228,
+        "reason": "Attestation Violation",
+        "slot": 475796,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17164,
+        "reason": "Attestation Violation",
+        "slot": 475794,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 26201,
+        "reason": "Attestation Violation",
+        "slot": 475793,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 26278,
+        "reason": "Attestation Violation",
+        "slot": 475790,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 19001,
+        "reason": "Attestation Violation",
+        "slot": 475789,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 24696,
+        "reason": "Attestation Violation",
+        "slot": 475789,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 17395,
+        "reason": "Attestation Violation",
+        "slot": 475787,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 18989,
+        "reason": "Attestation Violation",
+        "slot": 475787,
+        "epoch": 14868
+    },
+    {
+        "slashed_validator": 69873,
+        "reason": "Attestation Violation",
+        "slot": 457585,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71743,
+        "reason": "Attestation Violation",
+        "slot": 457582,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75699,
+        "reason": "Attestation Violation",
+        "slot": 457582,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75711,
+        "reason": "Attestation Violation",
+        "slot": 457581,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75723,
+        "reason": "Attestation Violation",
+        "slot": 457581,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75204,
+        "reason": "Attestation Violation",
+        "slot": 457580,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75212,
+        "reason": "Attestation Violation",
+        "slot": 457580,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75045,
+        "reason": "Attestation Violation",
+        "slot": 457579,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 75172,
+        "reason": "Attestation Violation",
+        "slot": 457579,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72807,
+        "reason": "Attestation Violation",
+        "slot": 457578,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72674,
+        "reason": "Attestation Violation",
+        "slot": 457578,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72511,
+        "reason": "Attestation Violation",
+        "slot": 457577,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72508,
+        "reason": "Attestation Violation",
+        "slot": 457577,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72503,
+        "reason": "Attestation Violation",
+        "slot": 457576,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72496,
+        "reason": "Attestation Violation",
+        "slot": 457576,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72491,
+        "reason": "Attestation Violation",
+        "slot": 457575,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72493,
+        "reason": "Attestation Violation",
+        "slot": 457575,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72421,
+        "reason": "Attestation Violation",
+        "slot": 457574,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72082,
+        "reason": "Attestation Violation",
+        "slot": 457574,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72081,
+        "reason": "Attestation Violation",
+        "slot": 457573,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71744,
+        "reason": "Attestation Violation",
+        "slot": 457573,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71734,
+        "reason": "Attestation Violation",
+        "slot": 457572,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71714,
+        "reason": "Attestation Violation",
+        "slot": 457572,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71718,
+        "reason": "Attestation Violation",
+        "slot": 457571,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72084,
+        "reason": "Attestation Violation",
+        "slot": 457571,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71709,
+        "reason": "Attestation Violation",
+        "slot": 457570,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 71672,
+        "reason": "Attestation Violation",
+        "slot": 457570,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 70044,
+        "reason": "Attestation Violation",
+        "slot": 457568,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 69717,
+        "reason": "Attestation Violation",
+        "slot": 457568,
+        "epoch": 14299
+    },
+    {
+        "slashed_validator": 72499,
+        "reason": "Attestation Violation",
+        "slot": 457567,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 72074,
+        "reason": "Attestation Violation",
+        "slot": 457567,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 68593,
+        "reason": "Attestation Violation",
+        "slot": 457566,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69786,
+        "reason": "Attestation Violation",
+        "slot": 457566,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71646,
+        "reason": "Attestation Violation",
+        "slot": 457565,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71593,
+        "reason": "Attestation Violation",
+        "slot": 457565,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69756,
+        "reason": "Attestation Violation",
+        "slot": 457564,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69388,
+        "reason": "Attestation Violation",
+        "slot": 457564,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69809,
+        "reason": "Attestation Violation",
+        "slot": 457563,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71663,
+        "reason": "Attestation Violation",
+        "slot": 457563,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69866,
+        "reason": "Attestation Violation",
+        "slot": 457562,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71699,
+        "reason": "Attestation Violation",
+        "slot": 457562,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71708,
+        "reason": "Attestation Violation",
+        "slot": 457561,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71673,
+        "reason": "Attestation Violation",
+        "slot": 457561,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69841,
+        "reason": "Attestation Violation",
+        "slot": 457560,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69772,
+        "reason": "Attestation Violation",
+        "slot": 457560,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71671,
+        "reason": "Attestation Violation",
+        "slot": 457559,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69732,
+        "reason": "Attestation Violation",
+        "slot": 457559,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71664,
+        "reason": "Attestation Violation",
+        "slot": 457558,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69716,
+        "reason": "Attestation Violation",
+        "slot": 457558,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69391,
+        "reason": "Attestation Violation",
+        "slot": 457557,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69817,
+        "reason": "Attestation Violation",
+        "slot": 457557,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71603,
+        "reason": "Attestation Violation",
+        "slot": 457556,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 75162,
+        "reason": "Attestation Violation",
+        "slot": 457556,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 75715,
+        "reason": "Attestation Violation",
+        "slot": 457555,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71690,
+        "reason": "Attestation Violation",
+        "slot": 457555,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69895,
+        "reason": "Attestation Violation",
+        "slot": 457554,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71614,
+        "reason": "Attestation Violation",
+        "slot": 457554,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69358,
+        "reason": "Attestation Violation",
+        "slot": 457553,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 68648,
+        "reason": "Attestation Violation",
+        "slot": 457553,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69884,
+        "reason": "Attestation Violation",
+        "slot": 457552,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71665,
+        "reason": "Attestation Violation",
+        "slot": 457552,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71401,
+        "reason": "Attestation Violation",
+        "slot": 457551,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 69812,
+        "reason": "Attestation Violation",
+        "slot": 457551,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71654,
+        "reason": "Attestation Violation",
+        "slot": 457549,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 71676,
+        "reason": "Attestation Violation",
+        "slot": 457549,
+        "epoch": 14298
+    },
+    {
+        "slashed_validator": 17377,
+        "reason": "Attestation Violation",
+        "slot": 457452,
+        "epoch": 14295
+    },
+    {
+        "slashed_validator": 14415,
+        "reason": "Attestation Violation",
+        "slot": 457006,
+        "epoch": 14281
+    },
+    {
+        "slashed_validator": 16479,
+        "reason": "Attestation Violation",
+        "slot": 456959,
+        "epoch": 14279
+    },
+    {
+        "slashed_validator": 16523,
+        "reason": "Attestation Violation",
+        "slot": 456958,
+        "epoch": 14279
+    },
+    {
+        "slashed_validator": 16491,
+        "reason": "Attestation Violation",
+        "slot": 456949,
+        "epoch": 14279
+    },
+    {
+        "slashed_validator": 16509,
+        "reason": "Attestation Violation",
+        "slot": 456945,
+        "epoch": 14279
+    },
+    {
+        "slashed_validator": 8239,
+        "reason": "Attestation Violation",
+        "slot": 456896,
+        "epoch": 14278
+    },
+    {
+        "slashed_validator": 8250,
+        "reason": "Attestation Violation",
+        "slot": 456895,
+        "epoch": 14277
+    },
+    {
+        "slashed_validator": 8275,
+        "reason": "Attestation Violation",
+        "slot": 456894,
+        "epoch": 14277
+    },
+    {
+        "slashed_validator": 8320,
+        "reason": "Attestation Violation",
+        "slot": 456892,
+        "epoch": 14277
+    },
+    {
+        "slashed_validator": 9143,
+        "reason": "Attestation Violation",
+        "slot": 421395,
+        "epoch": 13168
+    },
+    {
+        "slashed_validator": 38038,
+        "reason": "Attestation Violation",
+        "slot": 357060,
+        "epoch": 11158
+    },
+    {
+        "slashed_validator": 40892,
+        "reason": "Proposer Violation",
+        "slot": 343133,
+        "epoch": 10722
+    },
+    {
+        "slashed_validator": 57976,
+        "reason": "Attestation Violation",
+        "slot": 296756,
+        "epoch": 9273
+    },
+    {
+        "slashed_validator": 52866,
+        "reason": "Attestation Violation",
+        "slot": 256812,
+        "epoch": 8025
+    },
+    {
+        "slashed_validator": 45871,
+        "reason": "Proposer Violation",
+        "slot": 248186,
+        "epoch": 7755
+    },
+    {
+        "slashed_validator": 43843,
+        "reason": "Attestation Violation",
+        "slot": 231183,
+        "epoch": 7224
+    },
+    {
+        "slashed_validator": 38116,
+        "reason": "Attestation Violation",
+        "slot": 161508,
+        "epoch": 5047
+    },
+    {
+        "slashed_validator": 38058,
+        "reason": "Attestation Violation",
+        "slot": 161508,
+        "epoch": 5047
+    },
+    {
+        "slashed_validator": 38114,
+        "reason": "Proposer Violation",
+        "slot": 141175,
+        "epoch": 4411
+    },
+    {
+        "slashed_validator": 38106,
+        "reason": "Attestation Violation",
+        "slot": 140924,
+        "epoch": 4403
+    },
+    {
+        "slashed_validator": 38148,
+        "reason": "Attestation Violation",
+        "slot": 140924,
+        "epoch": 4403
+    },
+    {
+        "slashed_validator": 38117,
+        "reason": "Proposer Violation",
+        "slot": 140895,
+        "epoch": 4402
+    },
+    {
+        "slashed_validator": 38128,
+        "reason": "Proposer Violation",
+        "slot": 140845,
+        "epoch": 4401
+    },
+    {
+        "slashed_validator": 38065,
+        "reason": "Proposer Violation",
+        "slot": 140811,
+        "epoch": 4400
+    },
+    {
+        "slashed_validator": 38129,
+        "reason": "Proposer Violation",
+        "slot": 140559,
+        "epoch": 4392
+    },
+    {
+        "slashed_validator": 38130,
+        "reason": "Proposer Violation",
+        "slot": 140313,
+        "epoch": 4384
+    },
+    {
+        "slashed_validator": 38091,
+        "reason": "Attestation Violation",
+        "slot": 138770,
+        "epoch": 4336
+    },
+    {
+        "slashed_validator": 38089,
+        "reason": "Proposer Violation",
+        "slot": 138731,
+        "epoch": 4335
+    },
+    {
+        "slashed_validator": 38061,
+        "reason": "Attestation Violation",
+        "slot": 138221,
+        "epoch": 4319
+    },
+    {
+        "slashed_validator": 38113,
+        "reason": "Attestation Violation",
+        "slot": 138221,
+        "epoch": 4319
+    },
+    {
+        "slashed_validator": 38061,
+        "reason": "Attestation Violation",
+        "slot": 138194,
+        "epoch": 4318
+    },
+    {
+        "slashed_validator": 38105,
+        "reason": "Attestation Violation",
+        "slot": 138194,
+        "epoch": 4318
+    },
+    {
+        "slashed_validator": 38069,
+        "reason": "Proposer Violation",
+        "slot": 138164,
+        "epoch": 4317
+    },
+    {
+        "slashed_validator": 23241,
+        "reason": "Attestation Violation",
+        "slot": 118136,
+        "epoch": 3691
+    },
+    {
+        "slashed_validator": 1644,
+        "reason": "Attestation Violation",
+        "slot": 102389,
+        "epoch": 3199
+    },
+    {
+        "slashed_validator": 7635,
+        "reason": "Attestation Violation",
+        "slot": 43920,
+        "epoch": 1372
+    },
+    {
+        "slashed_validator": 25645,
+        "reason": "Proposer Violation",
+        "slot": 40772,
+        "epoch": 1274
+    },
+    {
+        "slashed_validator": 18177,
+        "reason": "Proposer Violation",
+        "slot": 22374,
+        "epoch": 699
+    },
+    {
+        "slashed_validator": 4451,
+        "reason": "Attestation Violation",
+        "slot": 17227,
+        "epoch": 538
+    },
+    {
+        "slashed_validator": 18249,
+        "reason": "Attestation Violation",
+        "slot": 17227,
+        "epoch": 538
+    },
+    {
+        "slashed_validator": 4110,
+        "reason": "Attestation Violation",
+        "slot": 17206,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 13869,
+        "reason": "Attestation Violation",
+        "slot": 17206,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 4102,
+        "reason": "Attestation Violation",
+        "slot": 17188,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 4086,
+        "reason": "Attestation Violation",
+        "slot": 17188,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 4390,
+        "reason": "Attestation Violation",
+        "slot": 17184,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 4100,
+        "reason": "Attestation Violation",
+        "slot": 17184,
+        "epoch": 537
+    },
+    {
+        "slashed_validator": 4259,
+        "reason": "Attestation Violation",
+        "slot": 17112,
+        "epoch": 534
+    },
+    {
+        "slashed_validator": 21574,
+        "reason": "Attestation Violation",
+        "slot": 17112,
+        "epoch": 534
+    },
+    {
+        "slashed_validator": 20075,
+        "reason": "Proposer Violation",
+        "slot": 6669,
+        "epoch": 208
+    }
+]
